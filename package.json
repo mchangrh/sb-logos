@@ -1,0 +1,15 @@
+{
+  "name": "sb-logos",
+  "version": "1.0.0",
+  "description": "collection of SponsorBlock logos",
+  "main": "src/random.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchangrh/sb-logos.git"
+  },
+  "author": "Michael Chang <michael@mchang.name>",
+  "bugs": {
+    "url": "https://github.com/mchangrh/sb-logos/issues"
+  },
+  "homepage": "https://github.com/mchangrh/sb-logos#readme"
+}
